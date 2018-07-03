@@ -1,0 +1,174 @@
+{
+    "HB2018": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Harper's Bazaar AW2018",
+        "Subtitulo": "The trends of the season",
+        "Contenido": "Notice the names of the CSS and Javascript bundles: All the CSS and even all the Javascript of the application (which includes Angular) is not even coming from the same server as the index.html – this is coming from a completely different static server:",
+        "imgurl": "assets/editorial1.jpg"
+    },
+    "VAW2018": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Vogue AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripcion de Vogue",
+        "imgurl": "assets/editorial2.jpg",
+        "url": "/home"
+    },
+    "ID2018":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "ID AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de id",
+        "imgurl": "assets/editorial3.jpg",
+        "url": "/home"
+    },
+    "DZD2018":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Dazed AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de Dazed",
+        "imgurl": "assets/editorial4.jpg",
+        "url": "/home"
+    },
+    "HB20181": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Harper's Bazaar AW2018",
+        "Subtitulo": "The trends of the season",
+        "Contenido": "Notice the names of the CSS and Javascript bundles: All the CSS and even all the Javascript of the application (which includes Angular) is not even coming from the same server as the index.html – this is coming from a completely different static server:",
+        "imgurl": "assets/editorial1.jpg"
+    },
+    "VAW20181": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Vogue AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripcion de Vogue",
+        "imgurl": "assets/editorial2.jpg",
+        "url": "/home"
+    },
+    "ID20181":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "ID AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de id",
+        "imgurl": "assets/editorial3.jpg",
+        "url": "/home"
+    },
+    "DZD20181":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Dazed AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de Dazed",
+        "imgurl": "assets/editorial4.jpg",
+        "url": "/home"
+    },
+    "HB201811": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Harper's Bazaar AW2018",
+        "Subtitulo": "The trends of the season",
+        "Contenido": "Notice the names of the CSS and Javascript bundles: All the CSS and even all the Javascript of the application (which includes Angular) is not even coming from the same server as the index.html – this is coming from a completely different static server:",
+        "imgurl": "assets/editorial1.jpg"
+    },
+    "VAW201811": {
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Vogue AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripcion de Vogue",
+        "imgurl": "assets/editorial2.jpg",
+        "url": "/home"
+    },
+    "ID201811":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "ID AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de id",
+        "imgurl": "assets/editorial3.jpg",
+        "url": "/home"
+    },
+    "DZD201811":{
+        "Seccion": "Moda",
+        "Fecha": "02/05/2018",
+        "Hora": "12:55",
+        "Antetitulo": "The trends of the season",
+        "Titulo": "Dazed AW2018",
+        "Subtitulo": "The trends of the season",
+        "Descripcion": "Descripción de Dazed",
+        "imgurl": "assets/editorial4.jpg",
+        "url": "/home"
+    },
+        "HB2018111": {
+            "Seccion": "Moda",
+            "Fecha": "02/05/2018",
+            "Hora": "12:55",
+            "Antetitulo": "The trends of the season",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Subtitulo": "The trends of the season",
+            "Contenido": "Notice the names of the CSS and Javascript bundles: All the CSS and even all the Javascript of the application (which includes Angular) is not even coming from the same server as the index.html – this is coming from a completely different static server:",
+            "imgurl": "assets/editorial1.jpg"
+        },
+        "VAW2018111": {
+            "Seccion": "Moda",
+            "Fecha": "02/05/2018",
+            "Hora": "12:55",
+            "Antetitulo": "The trends of the season",
+            "Titulo": "Vogue AW2018",
+            "Subtitulo": "The trends of the season",
+            "Descripcion": "Descripcion de Vogue",
+            "imgurl": "assets/editorial2.jpg",
+            "url": "/home"
+        },
+        "ID2018111":{
+            "Seccion": "Moda",
+            "Fecha": "02/05/2018",
+            "Hora": "12:55",
+            "Antetitulo": "The trends of the season",
+            "Titulo": "ID AW2018",
+            "Subtitulo": "The trends of the season",
+            "Descripcion": "Descripción de id",
+            "imgurl": "assets/editorial3.jpg",
+            "url": "/home"
+        },
+        "DZD2018111":{
+            "Seccion": "Moda",
+            "Fecha": "02/05/2018",
+            "Hora": "12:55",
+            "Antetitulo": "The trends of the season",
+            "Titulo": "Dazed AW2018",
+            "Subtitulo": "The trends of the season",
+            "Descripcion": "Descripción de Dazed",
+            "imgurl": "assets/editorial4.jpg",
+            "url": "/home"
+        }
+}

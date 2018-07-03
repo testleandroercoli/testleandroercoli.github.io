@@ -1,0 +1,160 @@
+{
+    "Secciones": [
+        {
+            "id": "noticias",
+            "Titulo": "Noticias",
+            "Subsecciones": [
+                {
+                    "id": "la-ciudad",
+                    "titulo": "La ciudad"
+                },
+                {
+                    "id": "punta-alta",
+                    "titulo": "Punta Alta"
+                },
+                {
+                    "id": "la-region",
+                    "titulo": "La Región"
+                },
+                {
+                    "id": "el-pais",
+                    "titulo": "El país"
+                },
+                {
+                    "id": "el-mundo",
+                    "titulo": "El mundo"
+                },
+                {
+                    "id": "seguridad",
+                    "titulo": "Seguridad"
+                },
+                {
+                    "id": "opinion",
+                    "titulo": "Opinión"
+                }
+            ]
+        },
+        {
+            "id": "deportes",
+            "Titulo": "Deportes",
+            "Subsecciones": [
+                {
+                    "id": "mundo-midget",
+                    "titulo": "Mundo midget"
+                },
+                {
+                    "id": "olimpo-en-la-superliga",
+                    "titulo": "Olimpo en la Superliga"
+                }
+            ]
+        },
+        {
+            "id": "arte-cultura",
+            "Titulo": "Arte y cultura",
+            "Subsecciones": [
+                {
+                    "id": "aplausos",
+                    "titulo": "Aplausos"
+                },
+                {
+                    "id": "cines",
+                    "titulo": "Cines"
+                }
+            ]
+        },
+        {
+            "id": "economia-campo",
+            "Titulo": "Economía y campo",
+            "Subsecciones": [
+                {
+                    "id": "economia-finanzas",
+                    "titulo": "Economía y finanzas"
+                },
+                {
+                    "id": "con-el-campo",
+                    "titulo": "Con el campo"
+                },
+                {
+                    "id": "espacio-empresas",
+                    "titulo": "Espacio empresas"
+                }
+            ]
+        },
+        {
+            "id": "sociedad-tiempolibre",
+            "Titulo": "Sociedad y tiempo libre",
+            "Subsecciones": [
+                {
+                    "id": "sociedad",
+                    "titulo": "Sociedad"
+                },
+                {
+                    "id": "tecnologia",
+                    "titulo": "Tecnología"
+                },
+                {
+                    "id": "turismo",
+                    "titulo": "Turismo"
+                },
+                {
+                    "id": "salud",
+                    "titulo": "Salud"
+                },
+                {
+                    "id": "es-viral",
+                    "titulo": "Es viral"
+                }
+            ]
+        },        
+        {
+            "id": "servicios",
+            "Titulo": "Servicios",
+            "Subsecciones": [
+                {
+                    "id": "pronostico",
+                    "titulo": "El tiempo"
+                },
+                {
+                    "id": "carton-lleno",
+                    "titulo": "Cartón Lleno"
+                },
+                {
+                    "id": "funebres",
+                    "titulo": "Fúnebres"
+                },
+                {
+                    "id": "clasificados",
+                    "titulo": "Clasificados"
+                },
+                {
+                    "id": "horóscopo",
+                    "titulo": "Horóscopo"
+                },
+                {
+                    "id": "farmacias",
+                    "titulo": "Farmacias"
+                },
+                {
+                    "id": "transportes",
+                    "titulo": "Transportes"
+                },
+                {
+                    "id": "datos-utiles",
+                    "titulo": "Datos útiles"
+                },
+                {
+                    "id": "funebres",
+                    "titulo": "Fúnebres"
+                },
+                {
+                    "id": "edictos",
+                    "titulo": "Edictos"
+                },
+                {
+                    "id": "telefonos-urgencia",
+                    "titulo": "Teléfonos de urgencia"
+                }
+            ]
+        }
+    ]
+}

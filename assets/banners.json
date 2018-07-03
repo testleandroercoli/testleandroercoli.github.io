@@ -1,0 +1,124 @@
+{
+    "Banners": [
+        {
+            "id":"HB2018",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Descripcion":"Descripción de HB",
+            "imgurl":"assets/editorial1.jpg"
+        },
+        {
+            "id":"VAW2018",
+            "Titulo": "Vogue AW2018",
+            "Descripcion":"Descripcion de Vogue",
+            "imgurl":"assets/editorial2.jpg"
+        },
+        {
+            "id":"ID2018",
+            "Titulo": "ID AW2018",
+            "Descripcion":"Descripción de id",
+            "imgurl":"assets/editorial3.jpg"
+        },
+        {
+            "id":"DZD2018",
+            "Titulo": "Dazed AW2018",
+            "Descripcion":"Descripción de Dazed",
+            "imgurl":"assets/editorial4.jpg"
+        },
+        {
+            "id":"HB2018",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Descripcion":"Descripción de HB",
+            "imgurl":"assets/editorial1.jpg"
+        },
+        {
+            "id":"VAW2018",
+            "Titulo": "Vogue AW2018",
+            "Descripcion":"Descripcion de Vogue",
+            "imgurl":"assets/editorial2.jpg"
+        },
+        {
+            "id":"ID2018",
+            "Titulo": "ID AW2018",
+            "Descripcion":"Descripción de id",
+            "imgurl":"assets/editorial3.jpg"
+        },
+        {
+            "id":"DZD2018",
+            "Titulo": "Dazed AW2018",
+            "Descripcion":"Descripción de Dazed",
+            "imgurl":"assets/editorial4.jpg"
+        },
+        {
+            "id":"HB2018",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Descripcion":"Descripción de HB",
+            "imgurl":"assets/editorial1.jpg"
+        },
+        {
+            "id":"VAW2018",
+            "Titulo": "Vogue AW2018",
+            "Descripcion":"Descripcion de Vogue",
+            "imgurl":"assets/editorial2.jpg"
+        },
+        {
+            "id":"ID2018",
+            "Titulo": "ID AW2018",
+            "Descripcion":"Descripción de id",
+            "imgurl":"assets/editorial3.jpg"
+        },
+        {
+            "id":"DZD2018",
+            "Titulo": "Dazed AW2018",
+            "Descripcion":"Descripción de Dazed",
+            "imgurl":"assets/editorial4.jpg"
+        },
+        {
+            "id":"HB2018",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Descripcion":"Descripción de HB",
+            "imgurl":"assets/editorial1.jpg"
+        },
+        {
+            "id":"VAW2018",
+            "Titulo": "Vogue AW2018",
+            "Descripcion":"Descripcion de Vogue",
+            "imgurl":"assets/editorial2.jpg"
+        },
+        {
+            "id":"ID2018",
+            "Titulo": "ID AW2018",
+            "Descripcion":"Descripción de id",
+            "imgurl":"assets/editorial3.jpg"
+        },
+        {
+            "id":"DZD2018",
+            "Titulo": "Dazed AW2018",
+            "Descripcion":"Descripción de Dazed",
+            "imgurl":"assets/editorial4.jpg"
+        },
+        {
+            "id":"HB2018",
+            "Titulo": "Harper's Bazaar AW2018",
+            "Descripcion":"Descripción de HB",
+            "imgurl":"assets/editorial1.jpg"
+        },
+        {
+            "id":"VAW2018",
+            "Titulo": "Vogue AW2018",
+            "Descripcion":"Descripcion de Vogue",
+            "imgurl":"assets/editorial2.jpg"
+        },
+        {
+            "id":"ID2018",
+            "Titulo": "ID AW2018",
+            "Descripcion":"Descripción de id",
+            "imgurl":"assets/editorial3.jpg"
+        },
+        {
+            "id":"DZD2018",
+            "Titulo": "Dazed AW2018",
+            "Descripcion":"Descripción de Dazed",
+            "imgurl":"assets/editorial4.jpg"
+        }
+    ]
+}
