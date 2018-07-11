@@ -9,10 +9,6 @@
                     "titulo": "La ciudad"
                 },
                 {
-                    "id": "punta-alta",
-                    "titulo": "Punta Alta"
-                },
-                {
                     "id": "la-region",
                     "titulo": "La Región"
                 },
@@ -35,16 +31,46 @@
             ]
         },
         {
+            "id": "economia",
+            "Titulo": "Economía",
+            "Subsecciones": [
+                {
+                    "id": "negocios",
+                    "titulo": "Negocios"
+                },
+                {
+                    "id": "fiinanzas",
+                    "titulo": "Finanzas"
+                },
+                {
+                    "id": "internacional",
+                    "titulo": "Internacional"
+                },
+                {
+                    "id": "agro",
+                    "titulo": "Agro"
+                },
+                {
+                    "id": "opinion",
+                    "titulo": "Opinión"
+                }
+            ]
+        },
+        {
             "id": "deportes",
             "Titulo": "Deportes",
             "Subsecciones": [
                 {
-                    "id": "mundo-midget",
-                    "titulo": "Mundo midget"
+                    "id": "futbol",
+                    "titulo": "Fútbol"
                 },
                 {
-                    "id": "olimpo-en-la-superliga",
-                    "titulo": "Olimpo en la Superliga"
+                    "id": "basquet",
+                    "titulo": "Básquet"
+                },
+                {
+                    "id": "tenis",
+                    "titulo": "Tenis"
                 }
             ]
         },
@@ -53,30 +79,20 @@
             "Titulo": "Arte y cultura",
             "Subsecciones": [
                 {
-                    "id": "aplausos",
-                    "titulo": "Aplausos"
+                    "id": "artes-visuales",
+                    "titulo": "Artes visuales"
+                },
+                {
+                    "id": "literatura",
+                    "titulo": "Literatura"
+                },
+                {
+                    "id": "musica",
+                    "titulo": "Música"
                 },
                 {
                     "id": "cines",
                     "titulo": "Cines"
-                }
-            ]
-        },
-        {
-            "id": "economia-campo",
-            "Titulo": "Economía y campo",
-            "Subsecciones": [
-                {
-                    "id": "economia-finanzas",
-                    "titulo": "Economía y finanzas"
-                },
-                {
-                    "id": "con-el-campo",
-                    "titulo": "Con el campo"
-                },
-                {
-                    "id": "espacio-empresas",
-                    "titulo": "Espacio empresas"
                 }
             ]
         },
@@ -101,11 +117,11 @@
                     "titulo": "Salud"
                 },
                 {
-                    "id": "es-viral",
-                    "titulo": "Es viral"
+                    "id": "lifestyle",
+                    "titulo": "Lifestyle"
                 }
             ]
-        },        
+        },
         {
             "id": "servicios",
             "Titulo": "Servicios",
@@ -115,8 +131,8 @@
                     "titulo": "El tiempo"
                 },
                 {
-                    "id": "carton-lleno",
-                    "titulo": "Cartón Lleno"
+                    "id": "lotería",
+                    "titulo": "Loterías y quinielas"
                 },
                 {
                     "id": "funebres",
@@ -131,30 +147,42 @@
                     "titulo": "Horóscopo"
                 },
                 {
-                    "id": "farmacias",
-                    "titulo": "Farmacias"
-                },
-                {
                     "id": "transportes",
                     "titulo": "Transportes"
                 },
                 {
-                    "id": "datos-utiles",
-                    "titulo": "Datos útiles"
-                },
-                {
-                    "id": "funebres",
-                    "titulo": "Fúnebres"
-                },
-                {
-                    "id": "edictos",
-                    "titulo": "Edictos"
-                },
-                {
-                    "id": "telefonos-urgencia",
-                    "titulo": "Teléfonos de urgencia"
+                    "id": "cartelera",
+                    "titulo": "Cartelera"
                 }
             ]
         }
-    ]
+    ],
+    "ids": {
+        "noticias": "Noticias",
+        "la-ciudad": "La ciudad",
+        "la-region": "La Región",
+        "el-pais": "El país",
+        "el-mundo": "El mundo",
+        "seguridad": "Seguridad",
+        "opinion": "Opinión",
+        "economia": "Economía",
+        "negocios": "Negocios",
+        "finanzas": "Finanzas",
+        "internacional": "Internacional",
+        "agro": "Agro",
+        "opinion": "Opinión",
+        "deportes": "Deportes",
+        "fubol": "Fútbol",
+        "basquet": "Básquet",
+        "tenis": "Tenis",
+        "arte-cultura": "Arte y cultura",
+        "artes-visuales": "Artes visuales",
+        "literatura": "Literatura",
+        "musica": "Música",
+        "cines": "Cines",
+        "sociedad-tiempolibre": "Sociedad y tiempo libre",
+        "sociedad": "Sociedad",
+        "tecnologia": "Tecnología",
+        "turismo": "Turismo"
+    }
 }
